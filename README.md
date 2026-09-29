@@ -4,6 +4,8 @@ dlpick is a terminal picker for [yt-dlp](https://github.com/yt-dlp/yt-dlp). It a
 
 dlpick does not download the media itself. After you confirm, it runs `yt-dlp` and leaves the progress output on the terminal.
 
+<img width="960" height="458" alt="demo" src="https://github.com/user-attachments/assets/7dee96d6-e351-4a3b-9cd5-754057d9d75f" />
+
 ## Install with Homebrew
 
 ```sh
