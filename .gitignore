@@ -1,0 +1,4 @@
+/dlpick
+*.exe
+*.test
+.DS_Store
